@@ -1,0 +1,31 @@
+body{
+	background-color: hotpink;
+	color: #fbc223;
+
+}
+.container {
+	background-color: hotpink;
+}
+img {
+	width: 150px;
+	box-shadow: -20px 22px 50px -9px rgba(0, 0, 0, 10.100);
+	padding: 1px
+}
+footer{
+	text-align: center;
+}
+.table img {
+			transition: transform 0.30s ease;
+		}
+.table img:hover {
+			transform: scale(1.2);
+		}
+h1{
+	color: #FDB361;
+}
+.table td {
+			background-image: url('https://i.pinimg.com/control2/736x/52/e7/c7/52e7c7b71a14d1a997370438293c106d.jpg');
+			vertical-align: middle;
+			border: 1px solid #ddd;
+			background-color: rgba(255, 255, 255, 0.8); 
+		}
